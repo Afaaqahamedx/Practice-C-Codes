@@ -1,0 +1,22 @@
+
+Student name : afaaq
+Acc- no.: 5656556
+Balance : 500
+Student name : karti
+Acc- no.: 5656
+Balance : 99
+Student name : axacac
+Acc- no.: 88
+Balance : 646464
+Student name : scscsc
+Acc- no.: 88
+Balance : 9897
+Student name : dvbfb
+Acc- no.: 77
+Balance : 621321
+
+
+Updated datails :
+Student name : dvbfb
+Acc- no.: 77
+Balance : 620721
